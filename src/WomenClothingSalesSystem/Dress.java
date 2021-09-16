@@ -45,6 +45,19 @@ public class Dress extends WomenClothing {
                 );
     }
 
+    @Override
+    public String toStringGUI() {
+        return super.toStringGUI()+
+                String.format("\n%-30s%s\n%-41s%s\n%-38s%s\n%-33s%s\n%-37s%s\n%-34s%s",
+                        "waistCircumference" , "" +waistCircumference ,
+                        "hips" , "" +hips ,
+                        "hemline" , "" +hemline ,
+                        "shoulderAcross" , "" +shoulderAcross ,
+                         "bustWidth" , "" +bustWidth ,
+                        "sleeveLength" , "" +sleeveLength
+                );
+    }
+
     /**
      * judge whether a Dress equals another
      * @param o the Dress to be judged

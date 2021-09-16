@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d3451bf-b6c1-434b-b3e6-31bef5e11abb" name="Default Changelist" comment="" />
+    <list default="true" id="5d3451bf-b6c1-434b-b3e6-31bef5e11abb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WomenClothingSaleSystem.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/input.dat" beforeDir="false" afterPath="$PROJECT_DIR$/input.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/阶段二/WomenClothingSalesSystem/Coat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/阶段二/WomenClothingSalesSystem/Coat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/阶段二/WomenClothingSalesSystem/DetailsBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/阶段二/WomenClothingSalesSystem/DetailsBlock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/阶段二/WomenClothingSalesSystem/Dress.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/阶段二/WomenClothingSalesSystem/Dress.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/阶段二/WomenClothingSalesSystem/Pants.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/阶段二/WomenClothingSalesSystem/Pants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/阶段二/WomenClothingSalesSystem/ShoppingColumn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/阶段二/WomenClothingSalesSystem/ShoppingColumn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/阶段二/WomenClothingSalesSystem/ShoppingGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/阶段二/WomenClothingSalesSystem/ShoppingGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/阶段二/WomenClothingSalesSystem/Skirt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/阶段二/WomenClothingSalesSystem/Skirt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/阶段二/WomenClothingSalesSystem/WomenClothing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/阶段二/WomenClothingSalesSystem/WomenClothing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/阶段二/WomenClothingSalesSystem/WomenClothingSalesSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/阶段二/WomenClothingSalesSystem/WomenClothingSalesSystem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WomenClothingSalesSystem/Coat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WomenClothingSalesSystem/Coat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WomenClothingSalesSystem/DetailsBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WomenClothingSalesSystem/DetailsBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WomenClothingSalesSystem/Dress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WomenClothingSalesSystem/Dress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WomenClothingSalesSystem/Pants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WomenClothingSalesSystem/Pants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WomenClothingSalesSystem/ShoppingColumn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WomenClothingSalesSystem/ShoppingColumn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WomenClothingSalesSystem/ShoppingGUI.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/WomenClothingSalesSystem/ShoppingGUI.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WomenClothingSalesSystem/ShoppingGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WomenClothingSalesSystem/ShoppingGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WomenClothingSalesSystem/Skirt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WomenClothingSalesSystem/Skirt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WomenClothingSalesSystem/WomenClothing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WomenClothingSalesSystem/WomenClothing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WomenClothingSalesSystem/WomenClothingSalesSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WomenClothingSalesSystem/WomenClothingSalesSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/任务完成情况.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件更改说明.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/系统操作指南.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +56,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/WomenClothingSalesSystem/WomenClothingSalesSystem.java" root0="SKIP_INSPECTION" />
   </component>
@@ -39,22 +70,24 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="true" />
     <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="true" />
-    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="275" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="240" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Intel" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hongzhifenghahaha\Desktop\大二\完成的任务\面向对象\阶段二\src\WomenClothingSalesSystem" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ShoppingGUI">
+  <component name="RunManager" selected="Application.WomenClothingSalesSystem">
     <configuration name="ShoppingGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="WomenClothingSalesSystem.ShoppingGUI" />
       <module name="阶段二" />
@@ -83,8 +116,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ShoppingGUI" />
         <item itemvalue="Application.WomenClothingSalesSystem" />
+        <item itemvalue="Application.ShoppingGUI" />
       </list>
     </recent_temporary>
   </component>
@@ -118,6 +151,15 @@
       <workItem from="1606746132953" duration="979000" />
       <workItem from="1606753680650" duration="5190000" />
       <workItem from="1606761360181" duration="17315000" />
+      <workItem from="1606815645002" duration="708000" />
+      <workItem from="1606817116112" duration="20410000" />
+      <workItem from="1606982876833" duration="475000" />
+      <workItem from="1607052695900" duration="92000" />
+      <workItem from="1607160000459" duration="12000" />
+      <workItem from="1607160037758" duration="703000" />
+      <workItem from="1607605782680" duration="1723000" />
+      <workItem from="1608972084016" duration="634000" />
+      <workItem from="1610278267570" duration="803000" />
     </task>
     <servers />
   </component>
@@ -125,71 +167,81 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1606814224270">
+    <state x="-1474" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1606830175680">
+      <screen x="-1920" y="0" width="1280" height="680" />
+    </state>
+    <state x="-1474" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/-1920.0.1280.680@-1920.0.1280.680" timestamp="1606830175680" />
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1606823285705" />
+    <state x="371" y="124" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606835252121">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1606814224270" />
-    <state x="290" y="53" key="FileChooserDialogImpl" timestamp="1606402530812">
+    <state x="371" y="124" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1606835252121" />
+    <state x="290" y="53" key="FileChooserDialogImpl" timestamp="1606835364027">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="290" y="53" key="FileChooserDialogImpl/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1606402530812" />
-    <state width="1237" height="117" key="GridCell.Tab.0.bottom" timestamp="1606815470262">
+    <state x="290" y="53" key="FileChooserDialogImpl/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1606835364027" />
+    <state width="1222" height="54" key="GridCell.Tab.0.bottom" timestamp="1607169744138">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="523" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.0.1280.680@-1920.0.1280.680" timestamp="1606759762100" />
-    <state width="1237" height="117" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1606815470262" />
-    <state width="1237" height="59" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606812338558" />
-    <state width="1237" height="117" key="GridCell.Tab.0.center" timestamp="1606815470261">
+    <state width="1237" height="54" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.0.1280.680@-1920.0.1280.680" timestamp="1606837825114" />
+    <state width="1222" height="54" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1607169744138" />
+    <state width="1222" height="54" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1607052788514" />
+    <state width="1222" height="54" key="GridCell.Tab.0.center" timestamp="1607169744138">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="523" key="GridCell.Tab.0.center/0.0.1280.680/-1920.0.1280.680@-1920.0.1280.680" timestamp="1606759762099" />
-    <state width="1237" height="117" key="GridCell.Tab.0.center/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1606815470261" />
-    <state width="1237" height="59" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1606812338558" />
-    <state width="1237" height="117" key="GridCell.Tab.0.left" timestamp="1606815470261">
+    <state width="1237" height="54" key="GridCell.Tab.0.center/0.0.1280.680/-1920.0.1280.680@-1920.0.1280.680" timestamp="1606837825114" />
+    <state width="1222" height="54" key="GridCell.Tab.0.center/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1607169744138" />
+    <state width="1222" height="54" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1607052788514" />
+    <state width="1222" height="54" key="GridCell.Tab.0.left" timestamp="1607169744138">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="523" key="GridCell.Tab.0.left/0.0.1280.680/-1920.0.1280.680@-1920.0.1280.680" timestamp="1606759762098" />
-    <state width="1237" height="117" key="GridCell.Tab.0.left/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1606815470261" />
-    <state width="1237" height="59" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1606812338558" />
-    <state width="1237" height="117" key="GridCell.Tab.0.right" timestamp="1606815470262">
+    <state width="1237" height="54" key="GridCell.Tab.0.left/0.0.1280.680/-1920.0.1280.680@-1920.0.1280.680" timestamp="1606837825114" />
+    <state width="1222" height="54" key="GridCell.Tab.0.left/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1607169744138" />
+    <state width="1222" height="54" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1607052788514" />
+    <state width="1222" height="54" key="GridCell.Tab.0.right" timestamp="1607169744138">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="523" key="GridCell.Tab.0.right/0.0.1280.680/-1920.0.1280.680@-1920.0.1280.680" timestamp="1606759762100" />
-    <state width="1237" height="117" key="GridCell.Tab.0.right/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1606815470262" />
-    <state width="1237" height="59" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606812338558" />
-    <state width="1237" height="117" key="GridCell.Tab.1.bottom" timestamp="1606815470263">
+    <state width="1237" height="54" key="GridCell.Tab.0.right/0.0.1280.680/-1920.0.1280.680@-1920.0.1280.680" timestamp="1606837825114" />
+    <state width="1222" height="54" key="GridCell.Tab.0.right/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1607169744138" />
+    <state width="1222" height="54" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1607052788514" />
+    <state width="1222" height="115" key="GridCell.Tab.1.bottom" timestamp="1607169744134">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1220" height="200" key="GridCell.Tab.1.bottom/0.0.1280.680/-1920.0.1280.680@-1920.0.1280.680" timestamp="1606657992359" />
-    <state width="1237" height="117" key="GridCell.Tab.1.bottom/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1606815470263" />
+    <state width="1222" height="115" key="GridCell.Tab.1.bottom/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1607169744134" />
     <state width="1237" height="203" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606701535468" />
-    <state width="1237" height="117" key="GridCell.Tab.1.center" timestamp="1606815470263">
+    <state width="1222" height="115" key="GridCell.Tab.1.center" timestamp="1607169744133">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1220" height="200" key="GridCell.Tab.1.center/0.0.1280.680/-1920.0.1280.680@-1920.0.1280.680" timestamp="1606657992358" />
-    <state width="1237" height="117" key="GridCell.Tab.1.center/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1606815470263" />
+    <state width="1222" height="115" key="GridCell.Tab.1.center/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1607169744133" />
     <state width="1237" height="203" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1606701535468" />
-    <state width="1237" height="117" key="GridCell.Tab.1.left" timestamp="1606815470262">
+    <state width="1222" height="115" key="GridCell.Tab.1.left" timestamp="1607169744133">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1220" height="200" key="GridCell.Tab.1.left/0.0.1280.680/-1920.0.1280.680@-1920.0.1280.680" timestamp="1606657992358" />
-    <state width="1237" height="117" key="GridCell.Tab.1.left/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1606815470262" />
+    <state width="1222" height="115" key="GridCell.Tab.1.left/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1607169744133" />
     <state width="1237" height="203" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1606701535468" />
-    <state width="1237" height="117" key="GridCell.Tab.1.right" timestamp="1606815470263">
+    <state width="1222" height="115" key="GridCell.Tab.1.right" timestamp="1607169744133">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1220" height="200" key="GridCell.Tab.1.right/0.0.1280.680/-1920.0.1280.680@-1920.0.1280.680" timestamp="1606657992359" />
-    <state width="1237" height="117" key="GridCell.Tab.1.right/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1606815470263" />
+    <state width="1222" height="115" key="GridCell.Tab.1.right/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1607169744133" />
     <state width="1237" height="203" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1606701535468" />
-    <state x="121" y="0" key="SettingsEditor" timestamp="1606647954814">
+    <state x="121" y="0" key="SettingsEditor" timestamp="1606835365770">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="121" y="0" key="SettingsEditor/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1606647954814" />
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1606835365770" />
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1606630647683" />
-    <state x="-1927" y="-7" width="857" height="593" maximized="true" key="dock-window-1" timestamp="1606814315558">
-      <screen x="-1920" y="0" width="1280" height="680" />
+    <state x="156" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1606829319577">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="-1927" y="-7" width="857" height="593" maximized="true" key="dock-window-1/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1606814315558" />
+    <state x="156" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680/-1920.0.1280.680@-1920.0.1280.680" timestamp="1606829319577" />
+    <state x="411" y="207" width="994" height="581" key="dock-window-1" timestamp="1606824577609">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="411" y="207" width="994" height="581" key="dock-window-1/0.0.1280.680/-1920.0.1280.680@-1920.0.1280.680" timestamp="1606824577609" />
+    <state x="-1927" y="-7" width="857" height="593" maximized="true" key="dock-window-1/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1606820682859" />
     <state x="193" y="73" width="857" height="593" key="dock-window-1/0.0.1280.680@0.0.1280.680" timestamp="1606812347294" />
     <state x="-1592" y="0" width="966" height="576" maximized="true" key="dock-window-2" timestamp="1606652185121">
       <screen x="-1920" y="0" width="1280" height="680" />
@@ -204,5 +256,9 @@
     </state>
     <state x="141" y="195" width="654" height="688" key="dock-window-4/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1606655602902" />
     <state x="278" y="206" width="1061" height="581" key="dock-window-4/0.0.1280.680@0.0.1280.680" timestamp="1606552523535" />
+    <state x="-1623" y="151" key="run.anything.popup" timestamp="1606824995486">
+      <screen x="-1920" y="0" width="1280" height="680" />
+    </state>
+    <state x="-1623" y="151" key="run.anything.popup/0.0.1280.680/-1920.0.1280.680@-1920.0.1280.680" timestamp="1606824995486" />
   </component>
 </project>

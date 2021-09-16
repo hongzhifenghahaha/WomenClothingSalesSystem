@@ -34,6 +34,16 @@ public class Pants extends WomenClothing{
                 );
     }
 
+    @Override
+    public String toStringGUI() {
+        return super.toStringGUI()+
+                String.format("\n%-30s%s\n%-41s%s\n%-35s%s",
+                        "waistCircumference" ,"" + waistCircumference ,
+                        "hips" ,"" + hips ,
+                        "legOpening" ,"" + legOpening
+                );
+    }
+
     /**
      * The followings are some getter and setter
      */

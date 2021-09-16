@@ -42,6 +42,17 @@ public class WomenClothing {
                 WomenClothingSalesSystem.BLUE+"type:"  , WomenClothingSalesSystem.NONE + type
         );
     }
+
+    public String toStringGUI(){
+        return String.format("\n%-38s%s\n%-40s%s\n%-40s%s\n%-42s%s\n%-40s%s\n%-40s%s",
+                "name:"  , "" + name,
+                "price:" , "" + price,
+                "length:", "" + length,
+                "size:"  , "" + size,
+                "color:" , "" + color,
+                "type:"  , "" + type);
+    }
+
     /**
      * judge whether a WomenClothing equals another
      * @param o the WomenClothing to be judged

@@ -35,6 +35,16 @@ public class Coat extends WomenClothing{
                 );
     }
 
+    @Override
+    public String toStringGUI() {
+        return super.toStringGUI()+
+                String.format("\n%-33s%s\n%-37s%s\n%-34s%s",
+                        "shoulderAcross" ,"" + shoulderAcross ,
+                        "bustWidth" ,"" + bustWidth ,
+                        "sleeveLength" ,"" + sleeveLength
+                );
+    }
+
     /**
      * The followings are some getter and setter
      */

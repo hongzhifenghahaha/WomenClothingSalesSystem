@@ -1,5 +1,8 @@
 package WomenClothingSalesSystem;
 
+import javax.swing.*;
+import java.awt.*;
+
 /**
  * This class implements a Column.
  *
@@ -12,6 +15,7 @@ package WomenClothingSalesSystem;
 public class ShoppingColumn extends Column {
     private boolean choosedStatus;
     private int ChoosedQuantity;
+    private JCheckBox checkBox;
 
     /**
      * Construct a ShoppingColumn object
@@ -20,6 +24,16 @@ public class ShoppingColumn extends Column {
         super(name, price);
         this.choosedStatus = false;
         ChoosedQuantity = choosedQuantity;
+        checkBox = new JCheckBox();
+        checkBox.setBackground(Color.WHITE);
+    }
+
+    public JCheckBox getCheckBox() {
+        return checkBox;
+    }
+
+    public void setCheckBoxBounds(int x,int y,int width,int height){
+        checkBox.setBounds(x,y,width,height);
     }
 
     /**

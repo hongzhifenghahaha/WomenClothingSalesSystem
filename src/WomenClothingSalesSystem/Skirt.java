@@ -36,6 +36,16 @@ public class Skirt extends WomenClothing{
                 );
     }
 
+    @Override
+    public String toStringGUI() {
+        return super.toStringGUI() +
+                String.format("\n%-30s%s\n%-41s%s\n%-37s%s",
+                        "waistCircumference:" ,"" + waistCircumference ,
+                        "hips:" ,"" + hips ,
+                        "hemline:" , "" +hemline
+                );
+    }
+
     /**
      * judge whether a Skirt equals another
      * @param o the Skirt to be judged
